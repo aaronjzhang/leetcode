@@ -27,8 +27,6 @@ DyadicArray nSum( RandomAccessIterator first, RandomAccessIterator last, int tar
 
 	if( n == 2 )
 	{
-		printf( "%d, %d, %d \n", *first, *(last-1), target ); 	
-
 		RandomAccessIterator it = first;
 		for( ; it != last; ++it )
 		{
