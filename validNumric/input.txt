@@ -1,0 +1,21 @@
+" " false
+.   false
+.1  true
+1.  true
+" 1 " true
+1234 true
+" 123." true
+" 123. " true
+1e9 true
+e9 false
+93e false
+1.1e9  true
+.9e false
+.10e2 true
+abc false
+"1 1" false
+1a false
+46.e3 true
++11 true
+-12.0 true
+00507e+6 true
