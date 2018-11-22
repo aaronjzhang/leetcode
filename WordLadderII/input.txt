@@ -1,0 +1,3 @@
+"hot"
+"dog"
+["hot","cog","dog","tot","hog","hop","pot","dot"]

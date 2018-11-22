@@ -1,0 +1,3 @@
+"set"
+"oar"
+["oar","sat","dip","sir","lap","tat","off","din","caw","hob","lie","tam","wyo","noe","rob","nay","hah","box","mac","low","tin","tip","set","geo","too","tea","fin","tad","zed","key","ray","shy","min","kin","rep","now","ink","fag","fed","pas","huh","bad","oks","pan","kip","inc","bat","pop","pat","aol","cud","tan","car","hut","oat","gap","hes","hen","chi"]

@@ -1,0 +1,2 @@
+words = ["What","must","be","acknowledgment","shall","be"]
+maxWidth = 16

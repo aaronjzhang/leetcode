@@ -1,0 +1,3 @@
+"hit"
+"cog"
+["hot","cog","dot","dog","hit","lot","log"]
